@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Sainsburys Prodcut Scrapper Test
+ * Sainsburys Product Scrapper Test
  * @author Ciaran Synnott <hello@synnott.co.uk>
  */
 class SainsburysScrapper {
