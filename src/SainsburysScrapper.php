@@ -1,5 +1,3 @@
-<?php
-
 /**
  * Sainsburys Product Scrapper Test
  * @author Ciaran Synnott <hello@synnott.co.uk>
